@@ -1,0 +1,625 @@
+Archive member included to satisfy reference by file (symbol)
+
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a08.o)
+                              main.o (OpenEvent)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a11.o)
+                              main.o (TestEvent)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a12.o)
+                              main.o (EnableEvent)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+                              main.o (EnterCriticalSection)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+                              main.o (ExitCriticalSection)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a50.o)
+                              main.o (open)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a52.o)
+                              main.o (read)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a53.o)
+                              main.o (write)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+                              main.o (memset)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+                              main.o (AddCOMB)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+                              main.o (ResetCallback)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (startIntrDMA)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (startIntrVSync)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                              main.o (PadRead)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                              main.o (VSync)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+                              main.o (SetDefDrawEnv)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+                              main.o (SetDefDispEnv)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                              main.o (FntFlush)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (AddPrim)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (TermPrim)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetSemiTrans)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetSprt8)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetTile)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (SetDrawMode)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                              main.o (ClearOTag)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (LoadTPage)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (LoadClut2)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o) (GetTPage)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o) (GetClut)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a07.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o) (DeliverEvent)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (PAD_dr)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ReturnFromException)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ResetEntryInt)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (HookEntryInt)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a71.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o) (AddDrv)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ChangeClearPAD)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (_96_remove)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o) (GPU_cw)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o) (SysEnqIntRP)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o) (SysDeqIntRP)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (ChangeClearRCnt)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o) (PAD_init)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (_patch_pad)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (InitPAD2)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (StartPAD2)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (PAD_init2)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o) (FlushCache)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o) (_remove_ChgclrPAD)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o) (puts)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (setjmp)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o) (strlen)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o) (memcpy)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o) (printf)
+/srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+                              /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o) (GetVideoMode)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .reginfo       0x0000000000000000       0x18 main.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 main.o
+ .pdr           0x0000000000000000       0x60 main.o
+ .text.linktest
+                0x0000000000000000      0x1e0 main.o
+ .text          0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .data          0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .bss           0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .reginfo       0x0000000000000000       0x18 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .text          0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .data          0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .bss           0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .reginfo       0x0000000000000000       0x18 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .pdr           0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .ramtext       0x0000000000000000        0xc /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_line    0x0000000000000000       0x80 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_info    0x0000000000000000       0x26 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_abbrev  0x0000000000000000       0x14 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_aranges
+                0x0000000000000000       0x20 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .debug_str     0x0000000000000000       0x8a /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .gnu.attributes
+                0x0000000000000000       0x10 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+ .text          0x0000000000000000       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a11.o)
+ .text          0x0000000000000000       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a52.o)
+ .text          0x0000000000000000       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a53.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+loader           0x000000008000f800 0x0000000000000800
+ram              0x0000000080010000 0x00000000001f0000 xrw
+dcache           0x000000001f800000 0x0000000000000400
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+LOAD /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/syscalls/printf.o
+START GROUP
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc2.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcard.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libds.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgs.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgte.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgun.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libhmd.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libmath.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libmcrd.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libmcx.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libpad.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libpress.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libsio.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libsnd.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libspu.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libtap.a
+LOAD /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcd.a
+END GROUP
+                0x000000008001ee78                __heap_base = __bss_end
+                0x0000000080010000                TLOAD_ADDR = DEFINED (TLOAD_ADDR)?TLOAD_ADDR:0x80010000
+                0x0000000080200000                __ram_top = (ORIGIN (ram) + LENGTH (ram))
+                0x00000000801fff00                __sp = (__ram_top - 0x100)
+                0x000000001f800000                __dcache = ORIGIN (dcache)
+                0x000000001f800400                __dcache_top = (ORIGIN (dcache) + LENGTH (dcache))
+                0x0000000000005e78                __bss_len = (__bss_end - __bss_start)
+                0x0000000000006680                __ftext_len = (__ftext_end - __ftext_start)
+                0x0000000000002980                __fdata_len = (__fdata_end - __fdata_start)
+                0x0000000080200000                __stack_start = (ORIGIN (ram) + LENGTH (ram))
+
+.PSX_EXE_Header
+                0x000000008000f800      0x800
+                0x000000008000f800        0x1 BYTE 0x50
+                0x000000008000f801        0x1 BYTE 0x53
+                0x000000008000f802        0x1 BYTE 0x2d
+                0x000000008000f803        0x1 BYTE 0x58
+                0x000000008000f804        0x1 BYTE 0x20
+                0x000000008000f805        0x1 BYTE 0x45
+                0x000000008000f806        0x1 BYTE 0x58
+                0x000000008000f807        0x1 BYTE 0x45
+                0x000000008000f808        0x4 LONG 0x0
+                0x000000008000f80c        0x4 LONG 0x0
+                0x000000008000f810        0x4 LONG 0x80010000 ABSOLUTE (_start)
+                0x000000008000f814        0x4 LONG 0x0
+                0x000000008000f818        0x4 LONG 0x80010000 TLOAD_ADDR
+                0x000000008000f81c        0x4 LONG 0x9000 (__ftext_len + __fdata_len)
+                0x000000008000f820        0x4 LONG 0x0
+                0x000000008000f824        0x4 LONG 0x0
+                0x000000008000f828        0x4 LONG 0x0
+                0x000000008000f82c        0x4 LONG 0x0
+                0x000000008000f830        0x4 LONG 0x801fff00 DEFINED (_sp)?ABSOLUTE (_sp):0x801fff00
+                0x000000008000f834        0x4 LONG 0x0
+                0x0000000080010000                . = (. + 0x7c8)
+ *fill*         0x000000008000f838      0x7c8 
+                0x0000000080010000                __ftext_start = ABSOLUTE (.)
+
+.text           0x0000000080010000     0x6680
+ *(.start)
+ .start         0x0000000080010000       0x64 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+                0x0000000080010000                _start
+ *(.init)
+ *(SORT_NONE(.fini))
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x0000000080010064      0x3a8 main.o
+                0x0000000080010064                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.init     0x000000008001040c      0x128 main.o
+                0x000000008001040c                init
+ *fill*         0x0000000080010534        0x4 
+ .text          0x0000000080010538       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a08.o)
+                0x0000000080010538                OpenEvent
+ .text          0x0000000080010548       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a12.o)
+                0x0000000080010548                EnableEvent
+ .text          0x0000000080010558       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+                0x0000000080010558                EnterCriticalSection
+ .text          0x0000000080010568       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+                0x0000000080010568                ExitCriticalSection
+ .text          0x0000000080010578       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a50.o)
+                0x0000000080010578                open
+ .text          0x0000000080010588       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+                0x0000000080010588                memset
+ .text          0x0000000080010598     0x10e0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+                0x0000000080010598                AddCOMB
+                0x0000000080010b3c                _comb_control
+ .text          0x0000000080011678      0x6c0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+                0x0000000080011678                ResetCallback
+                0x00000000800116a8                InterruptCallback
+                0x00000000800116d8                DMACallback
+                0x0000000080011708                VSyncCallback
+                0x000000008001173c                VSyncCallbacks
+                0x000000008001176c                StopCallback
+                0x000000008001179c                RestartCallback
+                0x00000000800117cc                CheckCallback
+                0x00000000800117dc                GetIntrMask
+                0x00000000800117f4                SetIntrMask
+ .text          0x0000000080011d38      0x2a0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+                0x0000000080011d38                startIntrDMA
+ .text          0x0000000080011fd8      0x120 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                0x0000000080011fd8                startIntrVSync
+ .text          0x00000000800120f8       0x80 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                0x00000000800120f8                PadInit
+                0x0000000080012144                PadRead
+ .text          0x0000000080012178      0x210 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                0x0000000080012178                VSync
+ .text          0x0000000080012388       0xc0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+                0x0000000080012388                SetDefDrawEnv
+ .text          0x0000000080012448       0x40 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+                0x0000000080012448                SetDefDispEnv
+ .text          0x0000000080012488      0xa80 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                0x0000000080012488                SetDumpFnt
+                0x00000000800124c8                FntLoad
+                0x0000000080012568                FntOpen
+                0x0000000080012824                FntFlush
+                0x0000000080012b40                FntPrint
+ .text          0x0000000080012f08       0x40 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+                0x0000000080012f08                AddPrim
+ .text          0x0000000080012f48       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+                0x0000000080012f48                TermPrim
+ .text          0x0000000080012f68       0x30 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+                0x0000000080012f68                SetSemiTrans
+ .text          0x0000000080012f98       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+                0x0000000080012f98                SetSprt8
+ .text          0x0000000080012fb8       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+                0x0000000080012fb8                SetTile
+ .text          0x0000000080012fd8       0xa0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+                0x0000000080012fd8                SetDrawMode
+ .text          0x0000000080013078     0x2f00 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x0000000080013078                ResetGraph
+                0x00000000800131ec                SetGraphDebug
+                0x0000000080013248                SetGraphQueue
+                0x00000000800132ec                GetGraphDebug
+                0x00000000800132fc                DrawSyncCallback
+                0x000000008001335c                SetDispMask
+                0x00000000800133f4                DrawSync
+                0x0000000080013578                ClearImage
+                0x0000000080013608                ClearImage2
+                0x00000000800136a0                LoadImage
+                0x0000000080013700                StoreImage
+                0x0000000080013760                MoveImage
+                0x0000000080013818                ClearOTag
+                0x00000000800138e0                ClearOTagR
+                0x000000008001398c                DrawPrim
+                0x00000000800139e8                DrawOTag
+                0x0000000080013a58                PutDrawEnv
+                0x0000000080013b18                DrawOTagEnv
+                0x0000000080013bf0                GetDrawEnv
+                0x0000000080013c24                PutDispEnv
+                0x000000008001411c                GetDispEnv
+                0x0000000080014150                GetODE
+                0x0000000080014180                SetDrawArea
+                0x0000000080014200                SetDrawOffset
+                0x0000000080014240                SetDrawEnv
+                0x0000000080015b10                LoadImage2
+                0x0000000080015bfc                StoreImage2
+                0x0000000080015ce8                MoveImage2
+                0x0000000080015e2c                DrawOTag2
+                0x0000000080015f28                _GPU_ResetCallback
+ .text          0x0000000080015f78       0xf0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+                0x0000000080015f78                LoadTPage
+ .text          0x0000000080016068       0x70 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+                0x0000000080016068                LoadClut2
+ .text          0x00000000800160d8       0x40 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+                0x00000000800160d8                GetTPage
+ .text          0x0000000080016118       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+                0x0000000080016118                GetClut
+ .text          0x0000000080016138       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a07.o)
+                0x0000000080016138                DeliverEvent
+ .text          0x0000000080016148       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+                0x0000000080016148                PAD_dr
+ .text          0x0000000080016158       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+                0x0000000080016158                ReturnFromException
+ .text          0x0000000080016168       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+                0x0000000080016168                ResetEntryInt
+ .text          0x0000000080016178       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+                0x0000000080016178                HookEntryInt
+ .text          0x0000000080016188       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a71.o)
+                0x0000000080016188                AddDrv
+ .text          0x0000000080016198       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+                0x0000000080016198                ChangeClearPAD
+ .text          0x00000000800161a8       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+                0x00000000800161b0                _96_remove
+ .text          0x00000000800161c8       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+                0x00000000800161c8                GPU_cw
+ .text          0x00000000800161d8       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+                0x00000000800161d8                SysEnqIntRP
+ .text          0x00000000800161e8       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+                0x00000000800161e8                SysDeqIntRP
+ .text          0x00000000800161f8       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+                0x00000000800161f8                ChangeClearRCnt
+ .text          0x0000000080016208      0x290 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                0x0000000080016208                SetInitPadFlag
+                0x0000000080016214                ReadInitPadFlag
+                0x0000000080016224                PAD_init
+                0x00000000800162b4                InitPAD
+                0x0000000080016344                StartPAD
+ .text          0x0000000080016498       0xa0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+                0x0000000080016498                EnablePAD
+                0x00000000800164ac                DisablePAD
+                0x00000000800164c0                _patch_pad
+ .text          0x0000000080016538       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+                0x0000000080016538                InitPAD2
+ .text          0x0000000080016548       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+                0x0000000080016548                StartPAD2
+ .text          0x0000000080016558       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+                0x0000000080016558                PAD_init2
+ .text          0x0000000080016568       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+                0x0000000080016568                FlushCache
+ .text          0x0000000080016578       0x70 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+                0x0000000080016578                _remove_ChgclrPAD
+ .text          0x00000000800165e8       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+                0x00000000800165f0                puts
+ .text          0x0000000080016608       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+                0x0000000080016608                setjmp
+ .text          0x0000000080016618       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+                0x0000000080016618                strlen
+ .text          0x0000000080016628       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+                0x0000000080016628                memcpy
+ .text          0x0000000080016638       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+                0x0000000080016638                printf
+ .text          0x0000000080016648       0x30 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+                0x0000000080016648                SetVideoMode
+                0x000000008001665c                GetVideoMode
+                0x0000000080016680                . = ALIGN (0x10)
+ *fill*         0x0000000080016678        0x8 
+ *(.init)
+                0x0000000080016680                . = ALIGN (0x10)
+ *(.fini)
+                0x0000000080016680                . = ALIGN (0x10)
+                0x0000000080016680                __text_end = .
+                0x0000000080016680                __ftext_end = ABSOLUTE (.)
+                0x0000000080016680                __fdata_start = ABSOLUTE (.)
+
+.rodata         0x0000000080016680      0x4f0
+ *(.rodata .rodata.* .rdata .rdata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000080016680      0x110 main.o
+ .rodata        0x0000000080016790       0x10 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+ .rdata         0x00000000800167a0       0x60 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+ .rdata         0x0000000080016800       0x70 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .rdata         0x0000000080016870       0x30 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .rdata         0x00000000800168a0       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+ .rdata         0x00000000800168b0       0xa0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .rdata         0x0000000080016950      0x220 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x0000000080016b70                . = ALIGN (0x10)
+                0x0000000080016b70                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000080016b70                __preinit_array_end = .
+                0x0000000080016b70                . = ALIGN (0x10)
+                0x0000000080016b70                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000080016b70                . = ALIGN (0x10)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000000080016b70                __init_array_end = .
+                0x0000000080016b70                . = ALIGN (0x10)
+                0x0000000080016b70                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+                0x0000000080016b70                __fini_array_end = .
+                0x0000000080016b70                __build_id = .
+ *(.note.gnu.build-id)
+                0x0000000080016b70                __build_id_end = .
+
+.rel.dyn        0x0000000080016b70        0x0
+ .rel.dyn       0x0000000080016b70        0x0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+
+.rodata1
+ *(.rodata1)
+                0x0000000080016b70                __data_start = .
+
+.data           0x0000000080016b70     0x2490
+ *(.a0table)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000080016b70       0x90 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+ .data          0x0000000080016c00     0x1100 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .data          0x0000000080017d00       0x30 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .data          0x0000000080017d30       0x30 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+                0x0000000080017d50                Vcount
+ .data          0x0000000080017d60       0x20 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+                0x0000000080017d70                Hcount
+ .data          0x0000000080017d80      0xb90 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+                0x0000000080017d80                Font
+ .data          0x0000000080018910      0x1a0 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x000000008001895c                GPU_printf
+                0x0000000080018960                GEnv
+                0x0000000080018a88                _qin
+                0x0000000080018a8c                _qout
+ .data          0x0000000080018ab0       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+ .data          0x0000000080018ac0       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+ *(.data1)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+ *(.got.plt)
+ *(.got)
+                0x0000000080019000                . = ALIGN (0x800)
+ *fill*         0x0000000080018ad0      0x530 
+                0x0000000080019000                __data_end = .
+                0x0000000080019000                __fdata_end = .
+                0x0000000080019000                __bss_start = .
+
+.sbss           0x0000000080019000     0x5e78
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000080019000       0x2c main.o
+ *(.scommon)
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ *fill*         0x000000008001902c        0x4 
+ .bss           0x0000000080019030      0x160 main.o
+ .bss           0x0000000080019190       0x40 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+ .bss           0x00000000800191d0       0x14 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+                0x00000000800191e0                PadIdentifier
+ *fill*         0x00000000800191e4        0x4 
+ .bss           0x00000000800191e8     0x4410 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .bss           0x000000008001d5f8     0x1850 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+                0x000000008001d648                _que
+ .bss           0x000000008001ee48       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+                0x000000008001ee48                _apiPadPatch
+ .bss           0x000000008001ee58       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+ .bss           0x000000008001ee68       0x10 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+ *(COMMON)
+                0x000000008001ee78                . = ALIGN (0x4)
+                0x000000008001ee78                __bss_end = .
+                0x000000008001ee78                __heap_start = __heap_base
+                0x000000008000f800                . = (ADDR (.text) - 0x800)
+                0x000000008000f800                __end = .
+
+/DISCARD/
+ *(.MIPS.abiflags)
+
+/DISCARD/
+ *(.rel.iplt)
+ *(.rela.iplt)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.plt)
+ *(.iplt)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(serialtool.elf elf32-tradlittlemips)
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 main.o
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 main.o
+                                         0x13 (size before relaxing)
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 main.o
+ .gnu.attributes
+                0x0000000000000010       0x10 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.pdr            0x0000000000000000        0x0
+ .pdr           0x0000000000000000        0x0 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.note           0x0000000000000000     0x1878
+ .note          0x0000000000000000       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a08.o)
+ .note          0x0000000000000074       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a11.o)
+ .note          0x00000000000000e8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a12.o)
+ .note          0x000000000000015c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a36.o)
+ .note          0x00000000000001d0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a37.o)
+ .note          0x0000000000000244       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a50.o)
+ .note          0x00000000000002b8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a52.o)
+ .note          0x000000000000032c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a53.o)
+ .note          0x00000000000003a0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c43.o)
+ .note          0x0000000000000414       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libcomb.a(comb.o)
+ .note          0x0000000000000488       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr.o)
+ .note          0x00000000000004fc       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_dma.o)
+ .note          0x0000000000000570       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(intr_vb.o)
+ .note          0x00000000000005e4       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(pad.o)
+ .note          0x0000000000000658       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vsync.o)
+ .note          0x00000000000006cc       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e03.o)
+ .note          0x0000000000000740       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e04.o)
+ .note          0x00000000000007b4       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(font.o)
+ .note          0x0000000000000828       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p06.o)
+ .note          0x000000000000089c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p09.o)
+ .note          0x0000000000000910       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p10.o)
+ .note          0x0000000000000984       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p20.o)
+ .note          0x00000000000009f8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p26.o)
+ .note          0x0000000000000a6c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p41.o)
+ .note          0x0000000000000ae0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(sys.o)
+ .note          0x0000000000000b54       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e00.o)
+ .note          0x0000000000000bc8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(e02.o)
+ .note          0x0000000000000c3c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p00.o)
+ .note          0x0000000000000cb0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libgpu.a(p01.o)
+ .note          0x0000000000000d24       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a07.o)
+ .note          0x0000000000000d98       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a22.o)
+ .note          0x0000000000000e0c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a23.o)
+ .note          0x0000000000000e80       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a24.o)
+ .note          0x0000000000000ef4       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a25.o)
+ .note          0x0000000000000f68       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a71.o)
+ .note          0x0000000000000fdc       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a91.o)
+ .note          0x0000000000001050       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c114.o)
+ .note          0x00000000000010c4       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c73.o)
+ .note          0x0000000000001138       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l02.o)
+ .note          0x00000000000011ac       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l03.o)
+ .note          0x0000000000001220       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(l10.o)
+ .note          0x0000000000001294       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(pad.o)
+ .note          0x0000000000001308       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(patch.o)
+ .note          0x000000000000137c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a18.o)
+ .note          0x00000000000013f0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a19.o)
+ .note          0x0000000000001464       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(a21.o)
+ .note          0x00000000000014d8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(c68.o)
+ .note          0x000000000000154c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libapi.a(chclrpad.o)
+ .note          0x00000000000015c0       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(a63.o)
+ .note          0x0000000000001634       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c19.o)
+ .note          0x00000000000016a8       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c27.o)
+ .note          0x000000000000171c       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c42.o)
+ .note          0x0000000000001790       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libc.a(c63.o)
+ .note          0x0000000000001804       0x74 /srv/media/psx/nolibgs_hello_worlds/psyq/lib/libetc.a(vmode.o)
+
+.debug_info     0x0000000000000000      0xda4
+ .debug_info    0x0000000000000000      0xd7e main.o
+ .debug_info    0x0000000000000d7e       0x26 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_abbrev   0x0000000000000000      0x1e0
+ .debug_abbrev  0x0000000000000000      0x1cc main.o
+ .debug_abbrev  0x00000000000001cc       0x14 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_loc      0x0000000000000000       0xbd
+ .debug_loc     0x0000000000000000       0xbd main.o
+
+.debug_aranges  0x0000000000000000       0x50
+ .debug_aranges
+                0x0000000000000000       0x30 main.o
+ .debug_aranges
+                0x0000000000000030       0x20 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_ranges   0x0000000000000000       0x48
+ .debug_ranges  0x0000000000000000       0x48 main.o
+
+.debug_line     0x0000000000000000      0x4d5
+ .debug_line    0x0000000000000000      0x44b main.o
+ .debug_line    0x000000000000044b       0x8a /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+
+.debug_str      0x0000000000000000      0x3ff
+ .debug_str     0x0000000000000000      0x3aa main.o
+                                        0x3bc (size before relaxing)
+ .debug_str     0x00000000000003aa       0x55 /srv/media/psx/nolibgs_hello_worlds/thirdparty/nugget/common/crt0/crt0.o
+                                         0x84 (size before relaxing)
+
+.debug_frame    0x0000000000000000       0x98
+ .debug_frame   0x0000000000000000       0x98 main.o

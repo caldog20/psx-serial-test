@@ -181,12 +181,12 @@ int main(void) {
 		
 		FntPrint("Serial Tool\n");
 		FntPrint("\nCOMBSIOSTAT: %x\n", (CombSioStatus() & (COMB_DSR|COMB_CTS)));
-        FntPrint("RTS: %d  DTR: %d\n",((CombControlStatus() & 0xFFFFFF)>>1) ,((CombControlStatus() & 1)));
-        FntPrint("CTS: %d  DSR: %d\n", CombCTS(), (CombSioStatus() >> 7) & 1);
+        	FntPrint("RTS: %d  DTR: %d\n",((CombControlStatus() & 0xFFFFFF)>>1) ,((CombControlStatus() & 1)));
+        	FntPrint("CTS: %d  DSR: %d\n", CombCTS(), (CombSioStatus() >> 7) & 1);
 		FntPrint("L: RTS ON R: RTS OFF\n");
-        FntPrint("U: DTR ON D: DTR OFF\n");
-        FntPrint("BYTES REMAINING READ: %d\n", CombBytesRemaining(0));
-        FntPrint("BYTES REMAINING WRITE: %d\n", CombBytesRemaining(1));
+        	FntPrint("U: DTR ON D: DTR OFF\n");
+        	FntPrint("BYTES REMAINING READ: %d\n", CombBytesRemaining(0));
+        	FntPrint("BYTES REMAINING WRITE: %d\n", CombBytesRemaining(1));
 		// SIO_DATA
 		FntPrint("SIO1_DATA: %x\n", SIO1_DATA);
 		// SIO_STAT
@@ -202,8 +202,9 @@ int main(void) {
 
 
 		FntFlush(-1);
-        // if (_rec_remote()==1 ) reccnt++;
-        // if (_send_remote()==1) sencnt++;
+	    	
+        	// if (_rec_remote()==1 ) reccnt++;
+        	// if (_send_remote()==1) sencnt++;
 
 
         // long remain = CombBytesRemaining(fr);
